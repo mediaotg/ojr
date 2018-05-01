@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Aovel Sans Rounded';
+    src: url('AovelSans-Rounded.woff2') format('woff2'),
+        url('AovelSans-Rounded.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bariol';
+    src: url('Bariol-Regular.woff2') format('woff2'),
+        url('Bariol-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bariol';
+    src: url('Bariol-Bold.woff2') format('woff2'),
+        url('Bariol-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('MyriadPro-Regular.woff2') format('woff2'),
+        url('MyriadPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lugos';
+    src: url('Lugos-Regular.woff2') format('woff2'),
+        url('Lugos-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

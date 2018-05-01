@@ -1,0 +1,77 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: OJR_Website.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1366 px x 1412 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Myriad Pro (OTF)
+Bariol Regular (OTF)
+Bariol Bold (OTF)
+Lugos (OTF)
+Aovel Sans Rounded (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/rivkyschwartz/Desktop/OJR/Website/shutterstock_671044135.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 31253K, 4000 by 2667 pixels
+Dimensions: 1367.851 by 912.014 points 
+Resolution: 210.549 by 210.549 pixels per inch
+
+
+/Users/rivkyschwartz/Desktop/OJR/Website/shutterstock_794573677.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 25806K, 3787 by 2326 pixels
+Dimensions: 1398.472 by 858.951 points 
+Resolution: 194.973 by 194.973 pixels per inch
+
+
+/Users/rivkyschwartz/Desktop/OJR/Website/shutterstock_696138958.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 29403K, 3872 by 2592 pixels
+Dimensions: 646.393 by 432.709 points 
+Resolution: 431.292 by 431.292 pixels per inch
+
+
+/Users/rivkyschwartz/Desktop/OJR/Website/shutterstock_696138958.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 29403K, 3872 by 2592 pixels
+Dimensions: 646.393 by 432.709 points 
+Resolution: 431.292 by 431.292 pixels per inch
